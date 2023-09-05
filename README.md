@@ -14,7 +14,8 @@ Skills: SQL/ TABLEAU/DATA VISUALISATION
 
 <h2>👨‍💻 Data Analyst in Business Projects:</h2>
 
-- <b>Data visualisation</b>
+- <b>Data visualisation</b>https://public.tableau.com/app/profile/dolapo.fabowale
+
 
 
 <h2> 🤳 Connect with me:</h2>
