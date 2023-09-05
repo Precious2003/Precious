@@ -1,6 +1,6 @@
+![image](https://github.com/Precious2003/Precious/assets/113320384/b69dd232-1848-4391-b22f-9c39367f8130)
 ### Hi there 👋, Dolapo Fabowale
 #### Data analyst in business 
-<img align= "right" alt="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 I'm Dolapo from United state , and I like to learn about IT ,infact currently learning Data analysis at Udacity.I enjoy learning languages and I am passionate about Data.
 
 Skills: SQL/ TABLEAU/DATA VISUALISATION
