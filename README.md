@@ -16,6 +16,11 @@ Skills: SQL/ TABLEAU/DATA VISUALISATION
 
 - <b>Data visualisation</b>https://public.tableau.com/app/profile/dolapo.fabowale
 
+<h2>🔐 Cybersecurity Portfolio Projects:</h2>
+
+- <b>OWASP Juice Shop Web Application Pentest Report</b> - scoped lab assessment with methodology, findings log, remediation table, evidence checklist, and LinkedIn-ready portfolio copy.  
+  <a href="cybersecurity-projects/owasp-juice-shop-pentest/README.md">View project</a>
+
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -43,4 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
